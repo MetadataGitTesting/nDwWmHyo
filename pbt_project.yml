@@ -1,0 +1,58 @@
+name: tonisha.osinski
+description: mission-critical
+version: 0.38.473
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tonishaosinski
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-09-19 23:38:14'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-09-19 23:38:14'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-09-19T23:38:14.947266Z'
+  name: plibMaven
+  version: 8.14.0-SNAPSHOT
+  id: '1335757372'
+  createdAt: '2025-09-19T23:38:14.947266Z'
+  type: plibMaven
+projectDependencies:
+  '428':
+    projectUID: 428
+    projectName: lore.jaskolski
+    repositoryPath: gitUri=http://gitserver:3000/dev_m5Srvfle_team_722/dev_m5Srvfle_project_428.git&subPath=
+    version: lore.jaskolski/8.1.422
+    isDefault: false
+    author: null
+    createdAt: '2025-09-19 23:38:12'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
